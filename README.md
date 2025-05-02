@@ -2,7 +2,7 @@
 
 This repository contains a full simulation setup and analytical tools for evaluating bipedal locomotion using MATLAB Simscape Multibody and a URDF-based humanoid robot.
 
-![Preview](img\bipss.png)
+![Preview](img/bipss.png)
 
 ## 📂 Project Contents
 
@@ -20,10 +20,10 @@ This repository contains a full simulation setup and analytical tools for evalua
 | `Unconfirmed 67354.wmv` | Simulation video (optional, for visualization) |
 
 ---
-![Preview](img\ss1.png)
-![Preview](img\ss2.png)
-![Preview](img\ss3.png)
-![Preview](img\ss4.png)
+![Preview](img/ss1.png)
+![Preview](img/ss2.png)
+![Preview](img/ss3.png)
+![Preview](img/ss4.png)
 
 ## 🧪 Simulation Requirements
 
